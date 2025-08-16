@@ -4,10 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzanramadhana&label=Profile%20views&color=0e75b6&style=flat" alt="razzanramadhana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razzanramadhana" alt="razzanramadhana" /></a> </p>
+- I am a 6th-semester student in Data Science Technology at Airlangga University with a profound interest in Data
+Science, Data Analysis, and AI. I am enthusiastic about learning and exploring new concepts in Technology and
+Data Science. My proactive nature and eagerness to continuously learn provide me with a competitive edge in
+overcoming challenges and achieving success. Proficient in Python, SQL, and R. My focus is on the entire
+machine learning lifecycle from model development and experimentation in NLP and Computer Vision to building
+and deploying robust AI services.
 
 - 🌱 I’m currently learning **Java, C, And Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAGGyHSBZd0/YjB2LVwQI8nNe-kCrrKpRg/edit?utm_content=DAGGyHSBZd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGGyHSBZd0/YjB2LVwQI8nNe-kCrrKpRg/edit?utm_content=DAGGyHSBZd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👨‍💻 All of my projects are available at [bit.ly/PortofolioRazzan](bit.ly/PortofolioRazzan)
 
 - 💬 Ask me about **Data Science, Data Analyst, And Machine Learning**
 
